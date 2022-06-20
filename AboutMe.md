@@ -6,6 +6,8 @@ Hi I'm Alex
 
 We can write text in *italic* and with **strong** fromatting
 
+We can add a link to the [Github](https://github.com) website
+
 ### Unorderer list
 
 * here
