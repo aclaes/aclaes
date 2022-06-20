@@ -1,10 +1,10 @@
-# About Me
+# About Me!
 
 ## Introduction
 
 Hi I'm Alex
 
-## Questions
+## Answers to some questions
 
 My favorite color is red
 
